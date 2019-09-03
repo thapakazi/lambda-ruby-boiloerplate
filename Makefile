@@ -1,4 +1,4 @@
-BUNDLE_PATH?=bundle
+BUNDLE_PATH?=vendor/bundle
 
 bundle:
 	mkdir -p ${BUNDLE_PATH}
