@@ -1,0 +1,17 @@
+#+DATE: Tuesday, Sep 03 2019
+
+Didn't knew earlier, aws have it documented  too
+ https://docs.aws.amazon.com/lambda/latest/dg/ruby-package.html
+
+To deploy:
+#+begin_src bash
+make deploy
+#+end_src
+
+**** Deps
+     Make sure you have the necessary package available
+     - awscli
+     - make
+     - ruby and bundler
+
+       
